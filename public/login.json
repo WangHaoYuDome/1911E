@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id": 500,
+        "rid": 0,
+        "username": "admin",
+        "mobile": "18779468922",
+        "email": "211@qq.com",
+        "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2MDAxNjEwMzgsImV4cCI6MTYwMDI0NzQzOH0.CNuxPcWGMbvkIEMurGM_bAj1B2049otYnVkPQl58MeM"
+    },
+    "meta": {
+        "msg": "登录成功",
+        "status": 200
+    }
+}

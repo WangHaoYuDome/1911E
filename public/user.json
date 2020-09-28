@@ -1,0 +1,57 @@
+{
+    "data": {
+        "total": 3,
+        "pagenum": 1,
+        "users": [
+            {
+                "id": 500,
+                "role_name": "超级管理员",
+                "username": "admin",
+                "create_time": 1486720211,
+                "mobile": "18779468922",
+                "email": "211@qq.com",
+                "mg_state": true
+            },
+            {
+                "id": 769,
+                "role_name": "超级管理员",
+                "username": "张三",
+                "create_time": 1600134912,
+                "mobile": "1111111111111111",
+                "email": "zhangsan@sina.cn",
+                "mg_state": false
+            },
+            {
+                "id": 232,
+                "role_name": "超级管理员",
+                "username": "李四",
+                "create_time": 1600134912,
+                "mobile": "111121535564",
+                "email": "zhangsan@sina.cn",
+                "mg_state": false
+            },
+            {
+                "id": 723,
+                "role_name": "超级管理员",
+                "username": "张三",
+                "create_time": 1600134912,
+                "mobile": "24356567111",
+                "email": "zhangsan@sina.cn",
+                "mg_state": false
+            },
+            {
+                "id": 723,
+                "role_name": "超级管理员",
+                "username": "张三",
+                "create_time": 1600134912,
+                "mobile": "11987657651",
+                "email": "zhangsan@sina.cn",
+                "mg_state": false
+            }
+        ]
+    },
+    "meta": {
+        "msg": "获取管理员列表成功",
+        "status": 200
+    }
+}
